@@ -1,4 +1,4 @@
-package com.freire;
+package com.list;
 
 import java.util.HashMap;
 import java.util.Map;

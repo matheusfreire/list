@@ -1,4 +1,4 @@
-package com.freire.model;
+package com.list.model;
 
 import java.io.Serializable;
 
